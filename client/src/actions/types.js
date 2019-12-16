@@ -1,0 +1,1 @@
+export const GET_CHARACTER_LIST = 'GET_CHARACTER_LIST';
